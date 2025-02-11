@@ -1,6 +1,6 @@
 # Lukso - Hack the Grid - Level 1 - PaidFollow Mini-App
 
-This contract allows universal profiles to sell LSP26 follows to other universal profiles.
+This mini app allows universal profiles to sell LSP26 follows to other universal profiles.
 
 [Video](https://vimeo.com/1055621478)
 
